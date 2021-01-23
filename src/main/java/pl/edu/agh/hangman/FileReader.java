@@ -1,5 +1,5 @@
 package pl.edu.agh.hangman;
 
-public class RandomWord {
+public class FileReader {
 
 }

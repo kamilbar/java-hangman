@@ -53,7 +53,12 @@ public class Hangman {
                     "      |\n" +
                     "========"
     };
+ 
 
+    
     public static void main(String[] args) {
+//    	while() {
+//    		
+//    	}
     }
 }
